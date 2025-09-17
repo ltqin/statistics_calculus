@@ -28,8 +28,8 @@
 |:---:|:---|
 | $\sinh(x)$ | $\int \sinh(x)  dx = \cosh(x) + C$ |
 | $\cosh(x)$ | $\int \cosh(x)  dx = \sinh(x) + C$ |
-| $\tanh(x)$ | $\int \tanh(x)  dx = \ln|\cosh(x)| + C$ |
-| $\coth(x)$ | $\int \coth(x)  dx = \ln|\sinh(x)| + C$ |
+| $\tanh(x)$ | $\int \tanh(x)  dx = \ln\|\cosh(x)\| + C$ |
+| $\coth(x)$ | $\int \coth(x)  dx = \ln\|sinh(x)\| + C$ |
 | $\operatorname{sech}(x)$ | $\int \operatorname{sech}(x)  dx = 2\arctan(e^x) + C$ |
 | $\operatorname{csch}(x)$ | $\int \operatorname{csch}(x)  dx = \ln\left|\tanh\left(\frac{x}{2}\right)\right| + C$ |
 
